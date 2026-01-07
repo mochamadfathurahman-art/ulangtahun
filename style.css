@@ -80,16 +80,3 @@ img.birthday {
 body.play-music {
   animation: fadeIn 2s ease-in-out; /* Adjust the animation duration and timing function as needed */
 }
-
-.foto-container {
-  text-align: center; /* supaya gambarnya di tengah */
-  margin: 20px auto;
-  max-width: 90%; /* maksimal lebar konten */
-}
-
-.foto-responsive {
-  width: 100%;
-  max-width: 600px; /* gambar tidak terlalu besar di layar besar */
-  height: auto; /* menjaga aspek rasio */
-  border-radius: 10px;
-}
